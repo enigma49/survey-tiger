@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  pointer-events: none;
+  margin-bottom: 30px;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App .survey-main-btn{
+  background-color: #B06047;
+  width: 150px;
+  margin: 20px;
+  padding: 10px;
+  border: none;
+}
+
+.App .question-container{
+  width: 25%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.App .question-container .input-grp{
+  margin-bottom: 5px;
+}
+
+.App .question-container h3{
+  text-align: left;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+
+.App .question-container .survey-qts-btn{
+  background-color: #B06047;
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 20px;
+    /* padding: 10px; */
+    border: none;
+}
